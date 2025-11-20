@@ -1,6 +1,6 @@
-#</> API testing automation with Rest-Assured.  
+# </> API testing automation with Rest-Assured.  
 
-##⚙️Setup:  
+## ⚙️Setup:  
 Download **JDK-17** and set the environment.  
 Download and install IntelliJ IDEA.  
 Add the following dependencies to build.gradle file from MAVEN repository:  
